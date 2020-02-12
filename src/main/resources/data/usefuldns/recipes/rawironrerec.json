@@ -1,0 +1,16 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "usefuldns:steelhammer"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "usefuldns:rawiron",
+    "count": 1
+  }
+}

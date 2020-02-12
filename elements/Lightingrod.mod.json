@@ -1,0 +1,30 @@
+{
+  "_fv": 5,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "lightningrod1",
+    "customModelName": "Normal",
+    "name": "Lightning Rod",
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Make it rain",
+      "or not with clicks and shift clicks"
+    ],
+    "hasGlow": false,
+    "onRightClickedInAir": {
+      "name": "Rsfgfgfg"
+    }
+  }
+}

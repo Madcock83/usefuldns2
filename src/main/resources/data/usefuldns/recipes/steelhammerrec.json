@@ -1,0 +1,36 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "usefuldns:steelingot"
+    },
+    "2": {
+      "item": "usefuldns:steelingot"
+    },
+    "3": {
+      "item": "usefuldns:steelrod"
+    },
+    "4": {
+      "item": "usefuldns:steelrod"
+    },
+    "5": {
+      "item": "usefuldns:steelingot"
+    },
+    "7": {
+      "item": "usefuldns:steelingot"
+    },
+    "8": {
+      "item": "usefuldns:steelingot"
+    }
+  },
+  "result": {
+    "item": "usefuldns:steelhammer",
+    "count": 1
+  }
+}

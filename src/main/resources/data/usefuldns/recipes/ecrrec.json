@@ -1,0 +1,13 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "usefuldns:energyconeleft"
+    }
+  ],
+  "result": {
+    "item": "usefuldns:energyconeright",
+    "count": 1
+  }
+}

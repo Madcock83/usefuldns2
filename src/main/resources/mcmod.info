@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "usefuldns",
+    "name": "usefulDNS",
+    "description": "useful items for the dns techpack",
+    "version": "5.5.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "assets/usefuldns/textures/logo.png",
+    "mcversion": "1.12.2",
+    "url": "http://www.madcock83.com",
+    "updateUrl": "",
+    "authorList": [
+      "Madcock83",
+      "MCreator"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

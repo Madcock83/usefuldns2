@@ -1,0 +1,36 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "usefuldns:steelrod"
+    },
+    "2": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "usefuldns:steelrod"
+    },
+    "4": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "5": {
+      "item": "usefuldns:steelrod"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "usefuldns:steelrod"
+    }
+  },
+  "result": {
+    "item": "usefuldns:flashlight",
+    "count": 1
+  }
+}

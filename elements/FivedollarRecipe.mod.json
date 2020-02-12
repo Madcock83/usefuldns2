@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Fivedollar"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Onedollar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Onedollar"
+      },
+      {
+        "value": "CUSTOM:Onedollar"
+      },
+      {
+        "value": "CUSTOM:Onedollar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Onedollar"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "fivedollarrecipe",
+    "namespace": "mod"
+  }
+}

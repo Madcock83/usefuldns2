@@ -1,0 +1,11 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "usefuldns:groundflesh"
+  },
+  "result": {
+    "item": "usefuldns:peopleburger"
+  }
+}

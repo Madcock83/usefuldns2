@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "recipeSlots": [
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "Items.LAVA_BUCKET"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "obsidrec",
+    "namespace": "mod"
+  }
+}

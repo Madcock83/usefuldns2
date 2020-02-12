@@ -1,0 +1,20 @@
+{
+  "madcock": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "usefuldns:cluck",
+        "stream": false
+      }
+    ]
+  },
+  "wrong": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "usefuldns:wrong",
+        "stream": false
+      }
+    ]
+  }
+}

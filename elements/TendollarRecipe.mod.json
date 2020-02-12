@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Tendollar"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Fivedollar"
+      },
+      {
+        "value": "CUSTOM:Fivedollar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "tendollarrecipe",
+    "namespace": "mod"
+  }
+}

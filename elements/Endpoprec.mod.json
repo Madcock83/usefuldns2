@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Endpop"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.END_CRYSTAL"
+      },
+      {
+        "value": "Items.ENDER_EYE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": "Items.END_CRYSTAL"
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "endpoprec",
+    "namespace": "mod"
+  }
+}

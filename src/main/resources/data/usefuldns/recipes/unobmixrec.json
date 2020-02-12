@@ -1,0 +1,19 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "usefuldns:rawiron"
+    },
+    {
+      "item": "usefuldns:rawsteel"
+    },
+    {
+      "item": "usefuldns:deca"
+    }
+  ],
+  "result": {
+    "item": "usefuldns:unobmix",
+    "count": 1
+  }
+}

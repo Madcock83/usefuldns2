@@ -1,0 +1,63 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "flashlight.png",
+          "name": "flashlight.png",
+          "x": 132,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Flashlight",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Flashlight",
+          "x": 364,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Place in your inventory. Grants night vision",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Place in your inventory. Grants night vision",
+          "x": 134,
+          "y": 300
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage15"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 616,
+          "y": 172
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

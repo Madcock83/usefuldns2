@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Diamondeos"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Diamondplate"
+      },
+      {
+        "value": "Blocks.IRON_BARS"
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": "Blocks.LEVER"
+      },
+      {
+        "value": "CUSTOM:Goldeneos"
+      },
+      {
+        "value": "Items.PRISMARINE_SHARD"
+      },
+      {
+        "value": "CUSTOM:Reinfdiaplater"
+      },
+      {
+        "value": "Items.REPEATER"
+      },
+      {
+        "value": "CUSTOM:Reinfdiaplater"
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "recdiamondeos",
+    "namespace": "mod"
+  }
+}

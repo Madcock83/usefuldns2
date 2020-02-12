@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_button"
+    },
+    "1": {
+      "item": "minecraft:redstone_block"
+    },
+    "2": {
+      "item": "usefuldns:steelrod"
+    },
+    "3": {
+      "item": "usefuldns:steelplate"
+    },
+    "4": {
+      "item": "usefuldns:goldplate"
+    },
+    "5": {
+      "item": "minecraft:iron_bars"
+    },
+    "6": {
+      "item": "usefuldns:steelplate"
+    },
+    "7": {
+      "item": "minecraft:comparator"
+    },
+    "8": {
+      "item": "minecraft:repeater"
+    }
+  },
+  "result": {
+    "item": "usefuldns:goldeneos",
+    "count": 1
+  }
+}

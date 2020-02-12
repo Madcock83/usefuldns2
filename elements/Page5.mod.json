@@ -1,0 +1,50 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "boots.png",
+          "name": "boots.png",
+          "x": 189,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Unobtainium boots",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Unobtainium boots",
+          "x": 323,
+          "y": 50
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage6"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 367,
+          "y": 376
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

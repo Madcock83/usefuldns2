@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_dye"
+    },
+    "1": {
+      "item": "minecraft:red_dye"
+    },
+    "2": {
+      "item": "minecraft:red_dye"
+    },
+    "3": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "4": {
+      "item": "minecraft:iron_axe"
+    },
+    "5": {
+      "item": "minecraft:iron_shovel"
+    },
+    "6": {
+      "item": "usefuldns:steelrod"
+    },
+    "7": {
+      "item": "usefuldns:steelingot"
+    },
+    "8": {
+      "item": "usefuldns:steelrod"
+    }
+  },
+  "result": {
+    "item": "usefuldns:swissarmy",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "usefuldns:blocks/diamondtop",
+    "up": "usefuldns:blocks/diamondtop",
+    "north": "usefuldns:blocks/diamondfronton",
+    "east": "usefuldns:blocks/diamondside",
+    "south": "usefuldns:blocks/diamondside",
+    "west": "usefuldns:blocks/diamondside",
+    "particle": "usefuldns:blocks/diamondtop"
+  }
+}

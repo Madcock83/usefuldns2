@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:diamondplate"
+    },
+    "1": {
+      "item": "minecraft:iron_bars"
+    },
+    "2": {
+      "item": "usefuldns:steelrod"
+    },
+    "3": {
+      "item": "minecraft:lever"
+    },
+    "4": {
+      "item": "usefuldns:goldeneos"
+    },
+    "5": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "6": {
+      "item": "usefuldns:reinfdiaplater"
+    },
+    "7": {
+      "item": "minecraft:repeater"
+    },
+    "8": {
+      "item": "usefuldns:reinfdiaplater"
+    }
+  },
+  "result": {
+    "item": "usefuldns:diamondeos",
+    "count": 1
+  }
+}

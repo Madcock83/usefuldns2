@@ -1,0 +1,16 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "usefuldns:onedollar",
+    "count": 55
+  }
+}

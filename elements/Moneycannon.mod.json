@@ -1,0 +1,44 @@
+{
+  "_fv": 5,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "unnamed",
+    "customModelName": "Normal",
+    "name": "Yeet Cannon 3000",
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Madbuck"
+    },
+    "shootConstantly": true,
+    "usageCount": 500,
+    "actionSound": {
+      "value": "entity.firework.launch"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 2,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Madbuck"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "MoneycannonBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "MoneycannonBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "MoneycannonBulletHitsBlock"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "mudpie5",
+    "customModelName": "Normal",
+    "name": "Mudpie",
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 25,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 7,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "MudpieFoodEaten"
+    }
+  }
+}

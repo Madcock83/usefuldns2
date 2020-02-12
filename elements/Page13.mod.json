@@ -1,0 +1,89 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "endpop.png",
+          "name": "endpop.png",
+          "x": 132,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Endpop [WIP]",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Endpop [WIP]",
+          "x": 409,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Right click to teleport to the end",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Right click to teleport to the end",
+          "x": 132,
+          "y": 334
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "RIGHT NOW THIS IS TELEPORT YOU TO X200 & Z200",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "RIGHT NOW THIS IS TELEPORT YOU TO X200 & Z200",
+          "x": 130,
+          "y": 360
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "MAKE SURE YOU CAN FLY OR YOU WILL DIE!",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "MAKE SURE YOU CAN FLY OR YOU WILL DIE!",
+          "x": 131,
+          "y": 382
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage14"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 621,
+          "y": 174
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

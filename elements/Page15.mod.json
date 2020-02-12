@@ -1,0 +1,63 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "yeetcannon.png",
+          "name": "yeetcannon.png",
+          "x": 135,
+          "y": 77
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Yeet Cannon 3000",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Yeet Cannon 3000",
+          "x": 359,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Fires Madbucks from your inventory around the world",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Fires Madbucks from your inventory around the world",
+          "x": 132,
+          "y": 304
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Main Menu",
+          "onClick": {
+            "name": "Openpage1"
+          },
+          "width": 184,
+          "height": 40,
+          "name": "Main Menu",
+          "x": 535,
+          "y": 176
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

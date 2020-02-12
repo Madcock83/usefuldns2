@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "usefuldns:blocks/blockodns",
+    "up": "usefuldns:blocks/blockodns",
+    "north": "usefuldns:blocks/blockodns",
+    "east": "usefuldns:blocks/blockodns",
+    "south": "usefuldns:blocks/blockodns",
+    "west": "usefuldns:blocks/blockodns",
+    "particle": "usefuldns:blocks/blockodns"
+  }
+}

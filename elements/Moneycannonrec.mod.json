@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Moneycannon"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Flashlight"
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": "CUSTOM:Steelingot"
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": "Items.FLINT_AND_STEEL"
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "moneycannonrec",
+    "namespace": "mod"
+  }
+}

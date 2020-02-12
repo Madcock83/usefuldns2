@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Transister"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Reinfdiaplater"
+      },
+      {
+        "value": "CUSTOM:Diamondplate"
+      },
+      {
+        "value": "CUSTOM:Reinfdiaplater"
+      },
+      {
+        "value": "Items.REPEATER"
+      },
+      {
+        "value": "CUSTOM:Diamondeos"
+      },
+      {
+        "value": "Items.COMPARATOR"
+      },
+      {
+        "value": "Blocks.IRON_BARS"
+      },
+      {
+        "value": "CUSTOM:Goldeneos"
+      },
+      {
+        "value": "Blocks.IRON_BARS"
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "transrec",
+    "namespace": "mod"
+  }
+}

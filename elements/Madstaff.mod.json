@@ -1,0 +1,28 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "madcockstaff",
+    "customModelName": "Normal",
+    "name": "Madcock's Staff of Death",
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 25.0,
+    "attackSpeed": 2.8,
+    "enchantability": 64,
+    "damageVsEntity": 30.0,
+    "usageCount": 4000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "onRightClickedInAir": {
+      "name": "MadstaffRightClickedInAir"
+    },
+    "onCrafted": {
+      "name": "MadstaffItemIsCraftedsmelted"
+    }
+  }
+}

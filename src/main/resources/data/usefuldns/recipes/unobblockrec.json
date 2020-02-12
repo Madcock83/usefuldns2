@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:unboingot"
+    },
+    "1": {
+      "item": "usefuldns:unboingot"
+    },
+    "2": {
+      "item": "usefuldns:unboingot"
+    },
+    "3": {
+      "item": "usefuldns:unboingot"
+    },
+    "4": {
+      "item": "usefuldns:unboingot"
+    },
+    "5": {
+      "item": "usefuldns:unboingot"
+    },
+    "6": {
+      "item": "usefuldns:unboingot"
+    },
+    "7": {
+      "item": "usefuldns:unboingot"
+    },
+    "8": {
+      "item": "usefuldns:unboingot"
+    }
+  },
+  "result": {
+    "item": "usefuldns:unobblock",
+    "count": 1
+  }
+}

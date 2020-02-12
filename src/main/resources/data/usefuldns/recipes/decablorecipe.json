@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:deca"
+    },
+    "1": {
+      "item": "usefuldns:deca"
+    },
+    "2": {
+      "item": "usefuldns:deca"
+    },
+    "3": {
+      "item": "usefuldns:deca"
+    },
+    "4": {
+      "item": "usefuldns:deca"
+    },
+    "5": {
+      "item": "usefuldns:deca"
+    },
+    "6": {
+      "item": "usefuldns:deca"
+    },
+    "7": {
+      "item": "usefuldns:deca"
+    },
+    "8": {
+      "item": "usefuldns:deca"
+    }
+  },
+  "result": {
+    "item": "usefuldns:decablo",
+    "count": 1
+  }
+}

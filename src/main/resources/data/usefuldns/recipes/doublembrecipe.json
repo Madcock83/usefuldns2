@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:moneybag"
+    },
+    "1": {
+      "item": "usefuldns:moneybag"
+    },
+    "2": {
+      "item": "usefuldns:moneybag"
+    },
+    "3": {
+      "item": "usefuldns:moneybag"
+    },
+    "4": {
+      "item": "usefuldns:moneybag"
+    },
+    "5": {
+      "item": "usefuldns:moneybag"
+    },
+    "6": {
+      "item": "usefuldns:moneybag"
+    },
+    "7": {
+      "item": "usefuldns:moneybag"
+    },
+    "8": {
+      "item": "usefuldns:moneybag"
+    }
+  },
+  "result": {
+    "item": "usefuldns:doublemb",
+    "count": 1
+  }
+}

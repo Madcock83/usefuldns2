@@ -1,0 +1,25 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "swissarmy2",
+    "customModelName": "Normal",
+    "name": "Swiss Army Knife",
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 5,
+    "efficiency": 30.0,
+    "attackSpeed": 2.8,
+    "enchantability": 64,
+    "damageVsEntity": 6.0,
+    "usageCount": 4000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "onBlockDestroyedWithTool": {
+      "name": "SwissArmyBlockDestroyedWithTool"
+    }
+  }
+}

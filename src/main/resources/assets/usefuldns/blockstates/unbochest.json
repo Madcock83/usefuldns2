@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "usefuldns:block/unbochest"
+    },
+    "facing=east": {
+      "model": "usefuldns:block/unbochest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "usefuldns:block/unbochest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "usefuldns:block/unbochest",
+      "y": 270
+    }
+  }
+}

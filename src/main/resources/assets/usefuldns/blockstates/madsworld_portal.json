@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "usefuldns:block/madsworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "usefuldns:block/madsworld_portal_ns"
+    }
+  }
+}

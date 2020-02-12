@@ -1,0 +1,19 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:fivehunny"
+    },
+    "1": {
+      "item": "usefuldns:fivehunny"
+    }
+  },
+  "result": {
+    "item": "usefuldns:thousdollar",
+    "count": 1
+  }
+}

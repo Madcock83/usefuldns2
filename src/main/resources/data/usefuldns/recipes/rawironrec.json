@@ -1,0 +1,11 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "usefuldns:rawiron"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

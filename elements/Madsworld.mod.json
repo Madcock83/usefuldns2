@@ -1,0 +1,59 @@
+{
+  "_fv": 5,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Decablo"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0.32,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Madcock's Travel Staff",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "madcocktravelf",
+    "portalTexture": "end_portal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "hell"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.SLIME_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:LiquidRF"
+    },
+    "airColor": {
+      "value": -13369549,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    },
+    "onPlayerEntersDimension": {
+      "name": "MadsworldPlayerEntersDimension"
+    }
+  }
+}

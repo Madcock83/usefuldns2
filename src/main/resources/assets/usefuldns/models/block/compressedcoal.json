@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "usefuldns:blocks/compressedcoalblock",
+    "up": "usefuldns:blocks/compressedcoalblock",
+    "north": "usefuldns:blocks/compressedcoalblock",
+    "east": "usefuldns:blocks/compressedcoalblock",
+    "south": "usefuldns:blocks/compressedcoalblock",
+    "west": "usefuldns:blocks/compressedcoalblock",
+    "particle": "usefuldns:blocks/compressedcoalblock"
+  }
+}

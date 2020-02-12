@@ -1,0 +1,24 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "4": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "6": {
+      "item": "usefuldns:steelrod"
+    }
+  },
+  "result": {
+    "item": "usefuldns:madstaff",
+    "count": 1
+  }
+}

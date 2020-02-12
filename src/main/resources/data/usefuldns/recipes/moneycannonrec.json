@@ -1,0 +1,39 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:flashlight"
+    },
+    "1": {
+      "item": "usefuldns:steelrod"
+    },
+    "3": {
+      "item": "usefuldns:steelrod"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "usefuldns:steelrod"
+    },
+    "6": {
+      "item": "usefuldns:steelingot"
+    },
+    "7": {
+      "item": "usefuldns:steelrod"
+    },
+    "8": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "usefuldns:moneycannon",
+    "count": 1
+  }
+}

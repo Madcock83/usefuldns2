@@ -1,0 +1,50 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 700,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "helmetrec2.png",
+          "name": "helmetrec2.png",
+          "x": 204,
+          "y": 108
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Unobtainium Helmet",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Unobtainium Helmet",
+          "x": 313,
+          "y": 69
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage3"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 358,
+          "y": 352
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

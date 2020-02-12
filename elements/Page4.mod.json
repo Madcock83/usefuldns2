@@ -1,0 +1,50 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "leggings.png",
+          "name": "leggings.png",
+          "x": 181,
+          "y": 97
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Unobtainium Leggings",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Unobtainium Leggings",
+          "x": 303,
+          "y": 50
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage5"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 366,
+          "y": 381
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

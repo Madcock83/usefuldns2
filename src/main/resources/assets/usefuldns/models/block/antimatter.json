@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "usefuldns:blocks/end_portal",
+    "up": "usefuldns:blocks/end_portal",
+    "north": "usefuldns:blocks/end_portal",
+    "east": "usefuldns:blocks/end_portal",
+    "south": "usefuldns:blocks/end_portal",
+    "west": "usefuldns:blocks/end_portal",
+    "particle": "usefuldns:blocks/end_portal"
+  }
+}

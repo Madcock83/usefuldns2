@@ -1,0 +1,50 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 700,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "chestplate.png",
+          "name": "chestplate.png",
+          "x": 183,
+          "y": 101
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Unobtainium ChestPlate",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Unobtainium ChestPlate",
+          "x": 296,
+          "y": 54
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage4"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 367,
+          "y": 381
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

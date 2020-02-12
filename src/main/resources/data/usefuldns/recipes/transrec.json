@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:reinfdiaplater"
+    },
+    "1": {
+      "item": "usefuldns:diamondplate"
+    },
+    "2": {
+      "item": "usefuldns:reinfdiaplater"
+    },
+    "3": {
+      "item": "minecraft:repeater"
+    },
+    "4": {
+      "item": "usefuldns:diamondeos"
+    },
+    "5": {
+      "item": "minecraft:comparator"
+    },
+    "6": {
+      "item": "minecraft:iron_bars"
+    },
+    "7": {
+      "item": "usefuldns:goldeneos"
+    },
+    "8": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "usefuldns:transister",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "usefuldns:cone"
+    },
+    {
+      "item": "usefuldns:transister"
+    }
+  ],
+  "result": {
+    "item": "usefuldns:energyconeleft",
+    "count": 1
+  }
+}

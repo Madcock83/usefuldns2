@@ -1,0 +1,39 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald_block"
+    },
+    "2": {
+      "item": "usefuldns:quinmb"
+    },
+    "3": {
+      "item": "minecraft:furnace"
+    },
+    "4": {
+      "item": "usefuldns:unobcrafter"
+    },
+    "5": {
+      "item": "minecraft:furnace"
+    },
+    "6": {
+      "item": "usefuldns:quinmb"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "usefuldns:unobfurnace",
+    "count": 1
+  }
+}

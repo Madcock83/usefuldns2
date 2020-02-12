@@ -1,0 +1,976 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 510,
+    "height": 400,
+    "renderBgLayer": true,
+    "containerBlock": "Unbochest",
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 0,
+          "name": "Slot #0",
+          "x": 264,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 1,
+          "name": "Slot #1",
+          "x": 300,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 2,
+          "name": "Slot #2",
+          "x": 336,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 3,
+          "name": "Slot #3",
+          "x": 372,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 4,
+          "name": "Slot #4",
+          "x": 408,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 5,
+          "name": "Slot #5",
+          "x": 444,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 6,
+          "name": "Slot #6",
+          "x": 480,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 7,
+          "name": "Slot #7",
+          "x": 516,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 8,
+          "name": "Slot #8",
+          "x": 552,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 9,
+          "name": "Slot #9",
+          "x": 264,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 10,
+          "name": "Slot #10",
+          "x": 300,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 11,
+          "name": "Slot #11",
+          "x": 336,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 12,
+          "name": "Slot #12",
+          "x": 372,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 13,
+          "name": "Slot #13",
+          "x": 408,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 14,
+          "name": "Slot #14",
+          "x": 444,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 15,
+          "name": "Slot #15",
+          "x": 480,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 16,
+          "name": "Slot #16",
+          "x": 516,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 17,
+          "name": "Slot #17",
+          "x": 552,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 18,
+          "name": "Slot #18",
+          "x": 264,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 19,
+          "name": "Slot #19",
+          "x": 300,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 20,
+          "name": "Slot #20",
+          "x": 336,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 21,
+          "name": "Slot #21",
+          "x": 372,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 22,
+          "name": "Slot #22",
+          "x": 408,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 23,
+          "name": "Slot #23",
+          "x": 444,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 24,
+          "name": "Slot #24",
+          "x": 480,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 25,
+          "name": "Slot #25",
+          "x": 516,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 26,
+          "name": "Slot #26",
+          "x": 552,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 27,
+          "name": "Slot #27",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 28,
+          "name": "Slot #28",
+          "x": 300,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 29,
+          "name": "Slot #29",
+          "x": 336,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 30,
+          "name": "Slot #30",
+          "x": 372,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 31,
+          "name": "Slot #31",
+          "x": 408,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 32,
+          "name": "Slot #32",
+          "x": 444,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 33,
+          "name": "Slot #33",
+          "x": 480,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 34,
+          "name": "Slot #34",
+          "x": 516,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 35,
+          "name": "Slot #35",
+          "x": 552,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 36,
+          "name": "Slot #36",
+          "x": 228,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 37,
+          "name": "Slot #37",
+          "x": 192,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 40,
+          "name": "Slot #40",
+          "x": 192,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 41,
+          "name": "Slot #41",
+          "x": 228,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 42,
+          "name": "Slot #42",
+          "x": 228,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 43,
+          "name": "Slot #43",
+          "x": 192,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 45,
+          "name": "Slot #45",
+          "x": 228,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 46,
+          "name": "Slot #46",
+          "x": 192,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 48,
+          "name": "Slot #48",
+          "x": 588,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 49,
+          "name": "Slot #49",
+          "x": 624,
+          "y": 204
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 51,
+          "name": "Slot #51",
+          "x": 588,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 52,
+          "name": "Slot #52",
+          "x": 624,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 54,
+          "name": "Slot #54",
+          "x": 588,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 55,
+          "name": "Slot #55",
+          "x": 624,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 57,
+          "name": "Slot #57",
+          "x": 588,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 58,
+          "name": "Slot #58",
+          "x": 624,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 47,
+          "name": "Slot #47",
+          "x": 192,
+          "y": 240
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 44,
+          "name": "Slot #44",
+          "x": 192,
+          "y": 276
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 39,
+          "name": "Slot #39",
+          "x": 192,
+          "y": 312
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 38,
+          "name": "Slot #38",
+          "x": 192,
+          "y": 348
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 60,
+          "name": "Slot #60",
+          "x": 624,
+          "y": 240
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 56,
+          "name": "Slot #56",
+          "x": 624,
+          "y": 276
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 53,
+          "name": "Slot #53",
+          "x": 624,
+          "y": 312
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 50,
+          "name": "Slot #50",
+          "x": 624,
+          "y": 348
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 61,
+          "name": "Slot #61",
+          "x": 192,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 62,
+          "name": "Slot #62",
+          "x": 228,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 63,
+          "name": "Slot #63",
+          "x": 264,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 64,
+          "name": "Slot #64",
+          "x": 300,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 65,
+          "name": "Slot #65",
+          "x": 336,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 66,
+          "name": "Slot #66",
+          "x": 372,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 67,
+          "name": "Slot #67",
+          "x": 408,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 68,
+          "name": "Slot #68",
+          "x": 444,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 69,
+          "name": "Slot #69",
+          "x": 480,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 70,
+          "name": "Slot #70",
+          "x": 516,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 71,
+          "name": "Slot #71",
+          "x": 552,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 72,
+          "name": "Slot #72",
+          "x": 588,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 73,
+          "name": "Slot #73",
+          "x": 624,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Unobtainium Chest",
+          "color": {
+            "value": -16738048,
+            "falpha": 0.0
+          },
+          "name": "Unobtainium Chest",
+          "x": 353,
+          "y": 399
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

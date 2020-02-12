@@ -1,0 +1,89 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "anti2.png",
+          "name": "anti2.png",
+          "x": 161,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Anti-matter Projector",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Anti-matter Projector",
+          "x": 126,
+          "y": 4
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Place and right click with a Madbuck",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Place and right click with a Madbuck",
+          "x": 127,
+          "y": 22
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "It will Dupe whatever is underneath",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "It will Dupe whatever is underneath",
+          "x": 127,
+          "y": 39
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Some blocks can NOT be Duped",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Some blocks can NOT be Duped",
+          "x": 127,
+          "y": 54
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Main Menu",
+          "onClick": {
+            "name": "Openpage1"
+          },
+          "width": 184,
+          "height": 40,
+          "name": "Main Menu",
+          "x": 508,
+          "y": 21
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "usefuldns:onedollar"
+    },
+    "3": {
+      "item": "usefuldns:onedollar"
+    },
+    "4": {
+      "item": "minecraft:egg"
+    },
+    "5": {
+      "item": "usefuldns:onedollar"
+    },
+    "7": {
+      "item": "usefuldns:onedollar"
+    }
+  },
+  "result": {
+    "item": "usefuldns:madbuck",
+    "count": 1
+  }
+}

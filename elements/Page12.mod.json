@@ -1,0 +1,63 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "cobblegen.png",
+          "name": "cobblegen.png",
+          "x": 133,
+          "y": 63
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Portible Cobble Generator",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Portible Cobble Generator",
+          "x": 349,
+          "y": 64
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Hold and right click, Cobble is placed in your inventory",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Hold and right click, Cobble is placed in your inventory",
+          "x": 132,
+          "y": 292
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage13"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 622,
+          "y": 173
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

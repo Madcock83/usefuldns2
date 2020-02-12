@@ -1,0 +1,63 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "madstaff.png",
+          "name": "madstaff.png",
+          "x": 174,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Madstaff",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Madstaff",
+          "x": 360,
+          "y": 4
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "This opens the Madworld Dimension",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "This opens the Madworld Dimension",
+          "x": 262,
+          "y": 23
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Main Menu",
+          "onClick": {
+            "name": "Openpage1"
+          },
+          "width": 184,
+          "height": 40,
+          "name": "Main Menu",
+          "x": 323,
+          "y": 376
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

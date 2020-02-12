@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Unobfurnace"
+    },
+    "recipeSlots": [
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Quinmb"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "CUSTOM:Unobcrafter"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "CUSTOM:Quinmb"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "unobfurancerec",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "sep1.png",
+          "name": "sep1.png",
+          "x": 181,
+          "y": 112
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "High Tier Money Bags",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "High Tier Money Bags",
+          "x": 316,
+          "y": 6
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "25 bags = Next Tier",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "25 bags = Next Tier",
+          "x": 320,
+          "y": 28
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "25 Sextuple = 1 Septule",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "25 Sextuple = 1 Septule",
+          "x": 307,
+          "y": 49
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "25 Septule = 1 Octuple",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "25 Septule = 1 Octuple",
+          "x": 310,
+          "y": 69
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage8"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 363,
+          "y": 385
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

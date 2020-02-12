@@ -1,0 +1,24 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "usefuldns:steelingot"
+    },
+    "4": {
+      "item": "usefuldns:steelingot"
+    },
+    "6": {
+      "item": "usefuldns:steelingot"
+    }
+  },
+  "result": {
+    "item": "usefuldns:steelrod",
+    "count": 1
+  }
+}

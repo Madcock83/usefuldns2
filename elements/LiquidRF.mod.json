@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "fluid",
+  "definition": {
+    "name": "LiquidRF",
+    "textureStill": "liquidrf2",
+    "textureFlowing": "liquidrf2",
+    "luminosity": 100,
+    "density": 1000,
+    "viscosity": 50,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "spawnWorldTypes": [],
+    "onEntityCollides": {
+      "name": "LiquidRFMobplayerColidesBlock"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 5,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "500dollar",
+    "customModelName": "Normal",
+    "name": "500 Dollar Bill",
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "I get love fo bout 500 dolla's"
+    ],
+    "hasGlow": false
+  }
+}

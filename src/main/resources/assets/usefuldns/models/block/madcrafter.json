@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "usefuldns:blocks/madcraft",
+    "up": "usefuldns:blocks/madcraft",
+    "north": "usefuldns:blocks/madcraft",
+    "east": "usefuldns:blocks/madcraft",
+    "south": "usefuldns:blocks/madcraft",
+    "west": "usefuldns:blocks/madcraft",
+    "particle": "usefuldns:blocks/madcraft"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "usefuldns:steelrod"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "6": {
+      "item": "usefuldns:steelplate"
+    },
+    "7": {
+      "item": "usefuldns:steelrod"
+    },
+    "8": {
+      "item": "usefuldns:steelplate"
+    }
+  },
+  "result": {
+    "item": "usefuldns:lightingrod",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "usefuldns:unobblock"
+    }
+  ],
+  "result": {
+    "item": "usefuldns:unboingot",
+    "count": 9
+  }
+}

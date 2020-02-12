@@ -1,0 +1,381 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 400,
+    "height": 460,
+    "renderBgLayer": true,
+    "containerBlock": "Madcrafter",
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 0,
+          "name": "Slot #0",
+          "x": 264,
+          "y": 42
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 1,
+          "name": "Slot #1",
+          "x": 300,
+          "y": 42
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 2,
+          "name": "Slot #2",
+          "x": 336,
+          "y": 42
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 3,
+          "name": "Slot #3",
+          "x": 372,
+          "y": 42
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 4,
+          "name": "Slot #4",
+          "x": 408,
+          "y": 42
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 5,
+          "name": "Slot #5",
+          "x": 264,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 6,
+          "name": "Slot #6",
+          "x": 300,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 7,
+          "name": "Slot #7",
+          "x": 336,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 8,
+          "name": "Slot #8",
+          "x": 372,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 9,
+          "name": "Slot #9",
+          "x": 408,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 10,
+          "name": "Slot #10",
+          "x": 264,
+          "y": 114
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 11,
+          "name": "Slot #11",
+          "x": 300,
+          "y": 114
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 12,
+          "name": "Slot #12",
+          "x": 336,
+          "y": 114
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 13,
+          "name": "Slot #13",
+          "x": 372,
+          "y": 114
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 14,
+          "name": "Slot #14",
+          "x": 408,
+          "y": 114
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 15,
+          "name": "Slot #15",
+          "x": 264,
+          "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 16,
+          "name": "Slot #16",
+          "x": 300,
+          "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 17,
+          "name": "Slot #17",
+          "x": 336,
+          "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 18,
+          "name": "Slot #18",
+          "x": 372,
+          "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 19,
+          "name": "Slot #19",
+          "x": 408,
+          "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 20,
+          "name": "Slot #20",
+          "x": 264,
+          "y": 186
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 21,
+          "name": "Slot #21",
+          "x": 300,
+          "y": 186
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 22,
+          "name": "Slot #22",
+          "x": 336,
+          "y": 186
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 23,
+          "name": "Slot #23",
+          "x": 372,
+          "y": 186
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 24,
+          "name": "Slot #24",
+          "x": 408,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "name": "arrow.png",
+          "x": 462,
+          "y": 168
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 25,
+          "name": "Slot #25",
+          "x": 534,
+          "y": 168
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "madcrafterlogo.png",
+          "name": "madcrafterlogo.png",
+          "x": 300,
+          "y": 384
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Craft",
+          "onClick": {
+            "name": "Madcrafterreccipes"
+          },
+          "width": 108,
+          "height": 40,
+          "name": "Craft",
+          "x": 481,
+          "y": 66
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

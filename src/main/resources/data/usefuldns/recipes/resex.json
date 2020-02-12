@@ -1,0 +1,13 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "usefuldns:sexmb"
+    }
+  ],
+  "result": {
+    "item": "usefuldns:quinmb",
+    "count": 25
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 450,
+    "height": 450,
+    "renderBgLayer": true,
+    "containerBlock": "Unobfurnace",
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 1,
+          "name": "Slot #1",
+          "x": 300,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 2,
+          "name": "Slot #2",
+          "x": 336,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 3,
+          "name": "Slot #3",
+          "x": 264,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 4,
+          "name": "Slot #4",
+          "x": 300,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 5,
+          "name": "Slot #5",
+          "x": 336,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 6,
+          "name": "Slot #6",
+          "x": 264,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 7,
+          "name": "Slot #7",
+          "x": 300,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 8,
+          "name": "Slot #8",
+          "x": 336,
+          "y": 168
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 9,
+          "name": "Slot #9",
+          "x": 444,
+          "y": 168
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 10,
+          "name": "Slot #10",
+          "x": 516,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Fuel",
+          "color": {
+            "value": -12566464,
+            "falpha": 0.0
+          },
+          "name": "Fuel",
+          "x": 444,
+          "y": 204
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Unobtainium Furance",
+          "color": {
+            "value": -12566464,
+            "falpha": 0.0
+          },
+          "name": "Unobtainium Furance",
+          "x": 212,
+          "y": 25
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Place Vanilla recipes in Green Slot",
+          "color": {
+            "value": -12566464,
+            "falpha": 0.0
+          },
+          "name": "Place Vanilla recipes in Green Slot",
+          "x": 210,
+          "y": 45
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "color": {
+            "value": -16711885,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "This Furnace Only Accepts",
+          "color": {
+            "value": -12566464,
+            "falpha": 0.0
+          },
+          "name": "This Furnace Only Accepts",
+          "x": 282,
+          "y": 402
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fire.png",
+          "name": "fire.png",
+          "x": 372,
+          "y": 168
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "name": "arrow.png",
+          "x": 408,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 11,
+          "name": "Slot #11",
+          "x": 552,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 12,
+          "name": "Slot #12",
+          "x": 588,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 13,
+          "name": "Slot #13",
+          "x": 516,
+          "y": 132
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 14,
+          "name": "Slot #14",
+          "x": 552,
+          "y": 132
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 15,
+          "name": "Slot #15",
+          "x": 588,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Sort",
+          "onClick": {
+            "name": "Firancesort"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Sort",
+          "x": 516,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Coal Blocks and",
+          "color": {
+            "value": -12566464,
+            "falpha": 0.0
+          },
+          "name": "Coal Blocks and",
+          "x": 350,
+          "y": 419
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Compressed Coal as Fuel",
+          "color": {
+            "value": -12566464,
+            "falpha": 0.0
+          },
+          "name": "Compressed Coal as Fuel",
+          "x": 316,
+          "y": 437
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Anything placed in",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Anything placed in",
+          "x": 12,
+          "y": 24
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "the green slot",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "the green slot",
+          "x": 12,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "will be melted",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "will be melted",
+          "x": 12,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "regaurdless if it",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "regaurdless if it",
+          "x": 12,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "has a smelting",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "has a smelting",
+          "x": 12,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "recipe or not",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "recipe or not",
+          "x": 12,
+          "y": 114
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "once fuel",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "once fuel",
+          "x": 12,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "is added",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "is added",
+          "x": 12,
+          "y": 150
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

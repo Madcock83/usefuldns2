@@ -1,0 +1,7 @@
+{
+  "_fv": 5,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">No additional trigger</field><next><block type=\"item_add_enhancement\"><field name=\"enhancement\">SHARPNESS</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">30</field></block></value><next><block type=\"item_add_enhancement\"><field name=\"enhancement\">SMITE</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">30</field></block></value><next><block type=\"item_add_enhancement\"><field name=\"enhancement\">LOOTING</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">10</field></block></value><next><block type=\"item_add_enhancement\"><field name=\"enhancement\">UNBREAKING</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">5</field></block></value><next><block type=\"item_add_enhancement\"><field name=\"enhancement\">KNOCKBACK</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">5</field></block></value></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

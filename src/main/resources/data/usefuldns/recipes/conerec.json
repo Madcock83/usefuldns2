@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:reinfdiaplater"
+    },
+    "1": {
+      "item": "usefuldns:goldplate"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    },
+    "3": {
+      "item": "usefuldns:reinfdiaplater"
+    },
+    "4": {
+      "item": "usefuldns:diamondeos"
+    },
+    "5": {
+      "item": "usefuldns:compressedcoal"
+    },
+    "6": {
+      "item": "usefuldns:reinfdiaplater"
+    },
+    "7": {
+      "item": "usefuldns:steelplate"
+    },
+    "8": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "usefuldns:cone",
+    "count": 1
+  }
+}

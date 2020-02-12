@@ -1,0 +1,135 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 475,
+    "height": 400,
+    "renderBgLayer": true,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Welcome to usefulDNS",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Welcome to usefulDNS",
+          "x": 316,
+          "y": 52
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "This book is a WIP",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "This book is a WIP",
+          "x": 340,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "I will add more when I get the time",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "I will add more when I get the time",
+          "x": 281,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "For now this will give you some basic info",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "For now this will give you some basic info",
+          "x": 239,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Ender Crafter Recipes",
+          "onClick": {
+            "name": "Openpage2"
+          },
+          "width": 444,
+          "height": 40,
+          "name": "Ender Crafter Recipes",
+          "x": 203,
+          "y": 147
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Unobtainium Furnace Recipes",
+          "onClick": {
+            "name": "Openpage9"
+          },
+          "width": 426,
+          "height": 40,
+          "name": "Unobtainium Furnace Recipes",
+          "x": 211,
+          "y": 198
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Sorry for the basic look here :-(",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Sorry for the basic look here :-(",
+          "x": 269,
+          "y": 392
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Tools and Items",
+          "onClick": {
+            "name": "Openpage11"
+          },
+          "width": 300,
+          "height": 40,
+          "name": "Tools and Items",
+          "x": 274,
+          "y": 291
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Anti-Matter Projector",
+          "onClick": {
+            "name": "Antimatteropengui"
+          },
+          "width": 440,
+          "height": 40,
+          "name": "Anti-Matter Projector",
+          "x": 202,
+          "y": 241
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

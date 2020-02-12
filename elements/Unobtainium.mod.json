@@ -1,0 +1,59 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "helmet",
+    "enableBody": true,
+    "textureBody": "body",
+    "enableLeggings": true,
+    "textureLeggings": "leggings",
+    "enableBoots": true,
+    "textureBoots": "boot",
+    "onHelmetTick": {
+      "name": "UnobtainiumHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "UnobtainiumBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "UnobtainiumLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "UnobtainiumBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "armorTextureFile": "null_",
+    "helmetName": "Unobtainium Helmet",
+    "bodyName": "Unobtainium Chestplate",
+    "leggingsName": "Unobtainium Leggings",
+    "bootsName": "Unobtainium Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 1024,
+    "damageValueHelmet": 1024,
+    "damageValueBody": 1024,
+    "damageValueLeggings": 1024,
+    "damageValueBoots": 1024,
+    "enchantability": 100,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

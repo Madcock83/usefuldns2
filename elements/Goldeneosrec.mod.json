@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Goldeneos"
+    },
+    "recipeSlots": [
+      {
+        "value": "Blocks.STONE_BUTTON"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:SteelRod"
+      },
+      {
+        "value": "CUSTOM:Steelplate"
+      },
+      {
+        "value": "CUSTOM:Goldplate"
+      },
+      {
+        "value": "Blocks.IRON_BARS"
+      },
+      {
+        "value": "CUSTOM:Steelplate"
+      },
+      {
+        "value": "Items.COMPARATOR"
+      },
+      {
+        "value": "Items.REPEATER"
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "goldeneosrec",
+    "namespace": "mod"
+  }
+}

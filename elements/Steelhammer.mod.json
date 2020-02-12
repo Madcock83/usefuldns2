@@ -1,0 +1,24 @@
+{
+  "_fv": 5,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "steelhammer",
+    "customModelName": "Normal",
+    "name": "Steel Hammer",
+    "creativeTab": {
+      "value": "CUSTOM:Usefuldns"
+    },
+    "stackSize": 1,
+    "enchantability": 100,
+    "useDuration": 100,
+    "toolType": 2.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="usefuldns"
+version="5.5.5"
+displayName="usefulDNS"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="http://www.madcock83.com"
+logoFile="logo.png"
+authors="Madcock83, MCreator"
+description='''
+useful items for the dns techpack
+'''
+
+[[dependencies.usefuldns]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

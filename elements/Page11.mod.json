@@ -1,0 +1,102 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 600,
+    "height": 475,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Random items",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Random items",
+          "x": 353,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "swiss.png",
+          "name": "swiss.png",
+          "x": 135,
+          "y": 43
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Swiss Army Knife",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Swiss Army Knife",
+          "x": 411,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "This acts as an Axe, Shovel, and Pickaxe",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "This acts as an Axe, Shovel, and Pickaxe",
+          "x": 134,
+          "y": 316
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Use it on vanilla ore to get a buff in drop counts",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Use it on vanilla ore to get a buff in drop counts",
+          "x": 136,
+          "y": 339
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Mining Iron ore with this will give you 3 raw iron",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Mining Iron ore with this will give you 3 raw iron",
+          "x": 135,
+          "y": 355
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "Openpage12"
+          },
+          "width": 88,
+          "height": 40,
+          "name": "Next",
+          "x": 616,
+          "y": 173
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

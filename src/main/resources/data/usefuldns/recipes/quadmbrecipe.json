@@ -1,0 +1,42 @@
+{
+  "group": "usefuldns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "usefuldns:tripmb"
+    },
+    "1": {
+      "item": "usefuldns:tripmb"
+    },
+    "2": {
+      "item": "usefuldns:tripmb"
+    },
+    "3": {
+      "item": "usefuldns:tripmb"
+    },
+    "4": {
+      "item": "usefuldns:tripmb"
+    },
+    "5": {
+      "item": "usefuldns:tripmb"
+    },
+    "6": {
+      "item": "usefuldns:tripmb"
+    },
+    "7": {
+      "item": "usefuldns:tripmb"
+    },
+    "8": {
+      "item": "usefuldns:tripmb"
+    }
+  },
+  "result": {
+    "item": "usefuldns:quadmb",
+    "count": 1
+  }
+}
