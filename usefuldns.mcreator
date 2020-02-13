@@ -1,9 +1,9 @@
 {
   "id_map": {
-    "BIOME": 0,
+    "GUI": 22,
     "DIMENSION": 1,
     "ENTITY": 1,
-    "GUI": 22
+    "BIOME": 0
   },
   "mod_elements": [
     {
@@ -2672,9 +2672,9 @@
       "item.rawiron.name": "Raw Iron",
       "item.rawsteel.name": "Raw Steel",
       "item.usefuldns.peopleburger": "People Burger",
-      "advancements.boom.descr": "Making something out of something else",
-      "item.quadmb.name": "Quadruple Money Bag",
       "tile.unbochest.name": "Unobtainium Chest",
+      "item.quadmb.name": "Quadruple Money Bag",
+      "advancements.boom.descr": "Making something out of something else",
       "block.usefuldns.unobcrafter": "Unobtainium Crafter",
       "item.moneybag.name": "Money Bag",
       "item.groundflesh.name": "Ground Flesh",
